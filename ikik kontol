@@ -1,0 +1,6 @@
+mkdir halaman-github
+cd halaman-github
+echo "Hello Ikik KOntol, Sorry yak kalo ada salah hehehe" >> index.html
+git init
+git add index.html
+git commit -m "first commit"
